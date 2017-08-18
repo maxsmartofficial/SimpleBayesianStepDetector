@@ -8,4 +8,4 @@ The data is represented as a list or numpy array of length N where N > 1. Callin
 
 ## Reference
 
-Ruanaidh, J.J.O and Fitzgerald, W.J., 2012. Numerical Bayesian methods applied to signal processing. Springer Science and & Business Media. 
+Ruanaidh, J.J.O. and Fitzgerald, W.J., 2012. Numerical Bayesian methods applied to signal processing. Springer Science and & Business Media. 
