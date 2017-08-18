@@ -6,4 +6,4 @@ $ x_t = \begin{cases}
       \mu_2 + \epsilon_t & t \geq c\\
    \end{cases}
 $
-or something like that
+or $x_t = \mu_1$ for something like that
